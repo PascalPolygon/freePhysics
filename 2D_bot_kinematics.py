@@ -4,6 +4,7 @@ from vpython import*
 import random
 import math
 
+# fuck it up, fuck it up !
 scene = canvas()
 
 class Robot:
